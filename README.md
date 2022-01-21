@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/using-html-and-css-WXE2mc5CU)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-frontend-mentor-challenge.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/using-html-and-css-WXE2mc5CU)
+- Live Site URL: (https://stats-preview-card-frontend-mentor-challenge.vercel.app/)
 
 ## My process
 
